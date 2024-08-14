@@ -1,4 +1,3 @@
-
 {
   "id": "divine-awakening",
   "title": "Divine Awakening",
@@ -14,9 +13,13 @@
     "styles/styles.css"
   ],
   "templates": [
-    "templates/pantheon-dynamics-sheet.html",
     "templates/character-sheet.html",
     "templates/divine-challenge.html"
+    "templates/pantheon-dynamics-sheet.html"
+  ],
+  "actorTypes": [
+    "awakened",
+    "mortal"
   ],
   "description": "A system for managing divine pantheon dynamics in Foundry VTT.",
   "authors": [
@@ -25,6 +28,6 @@
       "email": "your.email@example.com"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Belgarum/divine-awakening-system/main/divine.json",
-  "download": "https://github.com/Belgarum/divine-awakening-module/archive/refs/tags/3.zip"
+  "manifest": "https://raw.githubusercontent.com/Belgarum/divine-awakening-system/main/system.json",
+  "download": "https://github.com/Belgarum/divine-awakening-system/archive/refs/tags/divine.zip"
 }
