@@ -18,6 +18,10 @@
     "templates/character-sheet.html",
     "templates/divine-challenge.html"
   ],
+   "actorTypes": [
+    "awakened",
+    "mortal"
+  ],
   "description": "A system for managing divine pantheon dynamics in Foundry VTT.",
   "authors": [
     {
