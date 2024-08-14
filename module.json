@@ -14,5 +14,5 @@
       "templates/pantheon-dynamics-sheet.html"
     ],
     "packs": [],
-    "url": "https://github.com/Belgarum/divine-awakening-module/blob/main/divine-awakening-module-main.zip"
+    "manifest": "https://github.com/Belgarum/divine-awakening-module/blob/main/divine-awakening-module-main.zip"
   }
