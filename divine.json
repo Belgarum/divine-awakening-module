@@ -28,6 +28,6 @@
       "email": "your.email@example.com"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Belgarum/divine-awakening-system/main/system.json",
+  "manifest": "https://raw.githubusercontent.com/Belgarum/divine-awakening-system/main/divine.json",
   "download": "https://github.com/Belgarum/divine-awakening-system/archive/refs/tags/divine.zip"
 }
